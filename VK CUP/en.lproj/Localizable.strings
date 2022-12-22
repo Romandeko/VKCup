@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  VK CUP
+
+  Created by Роман Денисенко on 22.12.22.
+  
+*/
+"Continue_button" = "Continue";
+"Аниме" = "Anime";
+"Спорт" = "Sport";
+"Еда"  = "Food";
+"Машины" = "Cars";
+"Фильмы" = "Movies";
+"Юмор"  = "Humor";
+"Мода" = "Fashion";
+"Маникюр" = "Nails";
+"Музыка" = "Music";
+"Книги" = "Books";
+"Животные"  = "Animals";
+"Игры" = "Games";
+"Наука" = "Science";
+"Космос" = "Space";
+"Природа"  = "Nature";
+"Туризм" = "Tourism";
+"Искусство" = "Art";
+"Подарки" = "Presents";
+
