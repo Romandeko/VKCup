@@ -31,9 +31,9 @@ class MainViewController: UIViewController {
         super.viewDidAppear(animated)
         continueButton.setTitle(NSLocalizedString("Continue_button", comment: ""), for: .normal)
     }
+    
     //MARK: - Private Methods
     private func basicSetup(){
-           
         collectionView.delegate = self
         collectionView.dataSource = self
         collectionView.register(HobbyCell.nib(), forCellWithReuseIdentifier: HobbyCell.identifier)
